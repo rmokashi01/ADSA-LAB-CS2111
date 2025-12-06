@@ -74,8 +74,8 @@ Each experiment folder contains a detailed README with implementation notes, ins
 ---
 
 ## 💻 Technologies Used
-- **Programming Languages:** Python, C++, Java (as per experiment requirements)
-- **Tools:** Git, GitHub, any required libraries (mentioned per experiment)
+- **Programming Languages:** C
+- **Tools:** VSCode, Cursor, MSYS2 MINGW64
 - **Platform:** Cross-platform (Linux/Windows/macOS)
 
 ---
@@ -85,5 +85,5 @@ This repository documents the practical implementation of key advanced data stru
 
 ---
 **Submitted by:** Mr. Rehan Imran Mokashi  
-**Date:** 08/Desember/2025 
+**Date:** 08/Desember/2025  
 **Repository:** [https://github.com/rmokashi01/ADSA-LAB-CS2111](https://github.com/rmokashi01/ADSA-LAB-CS2111)
