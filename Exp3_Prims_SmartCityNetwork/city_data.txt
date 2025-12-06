@@ -1,0 +1,24 @@
+# Smart City Fiber Network Project
+# Format: BuildingID, Name, Type, X_coord, Y_coord
+
+BUILDINGS:
+0, "Main Data Center", 2, 0.0, 0.0
+1, "City Hospital", 0, 2.5, 1.2
+2, "Government Office", 2, 1.8, 3.4
+3, "Central School", 1, 3.2, 2.1
+4, "Residential Tower A", 3, 4.5, 1.0
+5, "Police Headquarters", 2, 1.0, 4.5
+...
+
+CONNECTIONS:
+# Format: From, To, Distance(km), Feasibility(0/1)
+0, 1, 3.2, 1
+0, 2, 4.1, 1
+1, 3, 2.8, 1
+2, 3, 1.9, 1
+...
+
+COST_FACTORS:
+TerrainFactor=1.2
+PermitCost=0.5  # Million per km
+PriorityBoost=1.5  # For hospitals/schools
