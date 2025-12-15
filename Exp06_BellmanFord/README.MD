@@ -1,4 +1,4 @@
-# Experiment 5 — Bellman–Ford Algorithm (Currency Exchange Arbitrage Detection)
+# Experiment 6 — Bellman–Ford Algorithm (Currency Exchange Arbitrage Detection)
 
 **Course:** CS2111 – Advanced Data Structures & Algorithms  
 **Lab:** ADSA Laboratory  
