@@ -1,4 +1,4 @@
-# Experiment – Dijkstra’s Algorithm (GPS Navigation System)
+# Experiment 5 – Dijkstra’s Algorithm (GPS Navigation System)
 
 **Course:** CS2111 – Advanced Data Structures & Algorithms  
 **Lab:** ADSA Laboratory  
